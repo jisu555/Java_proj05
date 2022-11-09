@@ -7,7 +7,9 @@ public class Outprint {
 
 		
 		//
-		System.out.println("오늘의 %s는 매우 맑습니다. 온도는 %d","날씨", 25);
+		System.out.printf("오늘의 %s는 매우 맑습니다. 온도는 %d","날씨", 25);
+		
+	
 	}
 
 }
